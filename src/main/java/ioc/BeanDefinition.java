@@ -1,4 +1,4 @@
-package ioc.chapter01;
+package ioc;
 
 /**
  * @author wangzhiming

@@ -1,8 +1,7 @@
-package ioc.chapter01;
+package ioc;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
-import java.util.concurrent.ConcurrentMap;
 
 /**
  * @author wangzhiming

@@ -1,6 +1,6 @@
 import bean.UserService;
-import ioc.chapter01.BeanDefinition;
-import ioc.chapter01.BeanFactory;
+import ioc.BeanDefinition;
+import ioc.BeanFactory;
 import org.junit.Test;
 
 /**
